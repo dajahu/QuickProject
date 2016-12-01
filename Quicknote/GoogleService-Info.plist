@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>483022021671-npu8b0nmh8asimni6dnp8v59h19c3gct.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.483022021671-npu8b0nmh8asimni6dnp8v59h19c3gct</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAEIQsl_25lZaQgRqz-yQalc9hwKAyH7_o</string>
+	<key>GCM_SENDER_ID</key>
+	<string>483022021671</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>a-note-quiknote.QuicknoteBeta</string>
+	<key>PROJECT_ID</key>
+	<string>quicknotebeta</string>
+	<key>STORAGE_BUCKET</key>
+	<string>quicknotebeta.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:483022021671:ios:b676e6ef65d70171</string>
+	<key>DATABASE_URL</key>
+	<string>https://quicknotebeta.firebaseio.com</string>
+</dict>
+</plist>
